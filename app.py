@@ -18,7 +18,7 @@ import tempfile
 
 
 # Pexels API Key (replace with your API key)
-PEXELS_API_KEY = 'eUiSujGMJgWtYh9kSKj9yRtuvBPWGf24oYLMyXuvCPfq4hJva7W04VHt'
+PEXELS_API_KEY = 'replace with your API key'
 
 # Function to speak text using gTTS
 def speak_text(text):
